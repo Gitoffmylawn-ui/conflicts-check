@@ -1,0 +1,10 @@
+metric,value
+parties_correct,322
+parties_total,325
+hits_correct,108
+hits_raised,108
+hits_expected,108
+outcomes_correct,135
+intakes_total,135
+flagged_for_review,0
+evaluated_at,2026-10-21 21:12

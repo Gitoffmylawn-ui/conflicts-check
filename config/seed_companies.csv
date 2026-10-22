@@ -1,0 +1,24 @@
+seed_name,gleif_name,lei,sector,court_terms
+Pfizer,PFIZER INC.,,Pharma,pfizer
+Johnson & Johnson,Johnson & Johnson,,Pharma,johnson & johnson
+Merck,"Merck & Co., Inc.",,Pharma,merck & co;merck sharp & dohme
+JPMorgan Chase,JPMorgan Chase & Co.,,Banking,jpmorgan;jp morgan
+Wells Fargo,Wells Fargo & Company,,Banking,wells fargo
+Bank of America,Bank of America Corporation,,Banking,bank of america
+Citigroup,Citigroup Inc.,,Banking,citigroup;citibank
+Alphabet,Alphabet Inc.,,Technology,google;alphabet inc
+Apple,Apple Inc.,,Technology,apple inc
+Microsoft,Microsoft Corporation,,Technology,microsoft
+Amazon,"Amazon.com, Inc.",,Technology,amazon.com;amazon web services
+Meta,"Meta Platforms, Inc.",,Technology,meta platforms;facebook
+ExxonMobil,Exxon Mobil Corporation,,Energy,exxon;exxonmobil
+ConocoPhillips,ConocoPhillips,WPTL2Z3FIYTHSP5V2253,Energy,conocophillips
+General Motors,General Motors Company,,Automotive,general motors
+Ford,Ford Motor Company,,Automotive,ford motor
+Tesla,"Tesla, Inc.",,Automotive,tesla inc;tesla motors
+Verizon,Verizon Communications Inc.,,Telecom,verizon
+AT&T,AT&T Inc.,,Telecom,at&t
+Comcast,Comcast Corporation,,Telecom,comcast
+Walmart,Walmart Inc.,,Retail,walmart;wal-mart
+UnitedHealth,UnitedHealth Group Incorporated,,Healthcare,unitedhealth;unitedhealthcare
+Boeing,The Boeing Company,,Aerospace,boeing

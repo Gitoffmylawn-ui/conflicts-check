@@ -1,0 +1,136 @@
+intake_id,received_date,prospective_client,practice_area,matter_description,scenario,expected_outcome
+I0001,2026-08-25,E! ENTERTAINMENT TELEVISION LLC,Securities Litigation,"Securities Litigation matter adverse to VERIZON COMMUNICATIONS INDIA PRIVATE LIMIETD, Copperleaf Energy Services Holdings",affiliate_of_current,medium_risk
+I0002,2026-10-02,GOOGLE CLOUD INDIA PRIVATE LIMITED,Corporate/M&A,Corporate/M&A matter adverse to Alex Chen,clean,clear
+I0003,2026-08-31,AHP HOLDINGS BV,Product Liability,"Product Liability matter adverse to Solano 3 Wind Holding, MICROSOFT ROUND ISLAND ONE",affiliate_of_former,low_risk
+I0004,2026-08-07,Aevry Varga,Employment,"Employment matter adverse to Weisshorn Solar I, LLC, ALPHABET CAPITAL US LLC",direct_adverse_current,high_risk
+I0005,2026-08-26,Sky Subscribers Services Limited,Securities Litigation,Securities Litigation matter adverse to J.P. MORGAN OVERSEAS CAPITAL LLC,clean,clear
+I0006,2026-07-22,Nbc Universal Global Networks Management Limited,Employment,Employment matter adverse to AMAZON HEALTHCARE SERVICES PRIVATE LIMITED,affiliate_of_current,medium_risk
+I0007,2026-07-05,Stonebridge Capital Corp.,Antitrust,Antitrust matter adverse to Chevron Street Bakery Llc,lookalike_name,clear
+I0008,2026-09-28,SKY TELECOMMUNICATIONS SERVICES LIMITED,Corporate/M&A,"Corporate/M&A matter adverse to Verizon Owner Trust 2020-A, PFIZER FINANCIAL SERVICES",affiliate_of_current,medium_risk
+I0009,2026-09-24,Google Cloud Emea Limited,Antitrust,"Antitrust matter adverse to WALMART INC., JP OMRGAN PRIME NOMINEES LTD",direct_adverse_current,high_risk
+I0010,2026-08-20,UPJOHN EXPORT B.V.,Securities Litigation,"Securities Litigation matter adverse to WALMART INC, Apple (Uk) Limited",direct_adverse_current,high_risk
+I0011,2026-07-16,PF CONSUMER HEALTHCARE B.V.,Regulatory,Regulatory matter adverse to Amazon Data Services Malaysia Sdn. Bhd.,affiliate_of_current,medium_risk
+I0012,2026-08-14,Sasha Fairbnaks,Commercial Litigation,Commercial Litigation matter adverse to WELLS FARGO & COMPANY,former_client_related,high_risk
+I0013,2026-08-20,WHATSAPP APPLICATION SERVICES PRIVATE LIMITED,Finance,Finance matter adverse to Janssen Pharmaceutical Unlimited,affiliate_of_current,medium_risk
+I0014,2026-08-15,Redfern Energy Services Corp.,Corporate/M&A,Corporate/M&A matter adverse to Ridgeline Manufacturing Llc,clean,clear
+I0015,2026-09-09,HARBOR SOFTWARE INC.,Antitrust,"Antitrust matter adverse to FORD-WERKE GMBH, MERRYSHA PRIVATE LIMITED",affiliate_of_current,medium_risk
+I0016,2026-08-11,OCTANTIS SERVICES PRIVATE LIMITED,Securities Litigation,Securities Litigation matter adverse to PFIZER SHARED SERVICES UNLIMITED,lateral_prior_client,medium_risk
+I0017,2026-10-16,RILEY FERREIRA,Employment,Employment matter adverse to CITI LOAN FUNDING RR CURRY 1 LLC,business_relationship,low_risk
+I0018,2026-08-06,Westbrook Building Supply Llc,Finance,Finance matter adverse to Walmart Inc,direct_adverse_current,high_risk
+I0019,2026-08-15,Copperleaf Medical Devices,Commercial Litigation,"Commercial Litigation matter adverse to WELLS FARGO & COMPANY, Ironwood Software L.P.",former_client_related,high_risk
+I0020,2026-09-21,APPLE CANADA,Finance,"Finance matter adverse to South Hook Lng Terminal Company Ltd., Silverline Building Supply LLC",former_client_unrelated,low_risk
+I0021,2026-10-06,Jp Morgan Growth Equity Division Holdings Inc,Employment,Employment matter adverse to Globaldrive Dealer Floorplan Germany 2018 B.V.,affiliate_of_current,medium_risk
+I0022,2026-08-24,"510 BROAD PARTNERS, LLC",Product Liability,"Product Liability matter adverse to Johnson & Johnson (Middle East) Inc, METASWITCH NETWORKS LTD",affiliate_of_current,medium_risk
+I0023,2026-09-20,J.P. MORGAN ADMINISTRATIVE SERVICES AUSTRALIA,Commercial Litigation,"Commercial Litigation matter adverse to MICROSOFT CAPITAL GROUP, LLC",clean,clear
+I0024,2026-10-14,STEWART,IP Litigation,IP Litigation matter adverse to Google Switzerland GmbH,adverse_party_becomes_client,high_risk
+I0025,2026-09-17,ECAST SETTLEMENT Corp,Corporate/M&A,Corporate/M&A matter adverse to 510 BROAD PARTNERS LLC,clean,clear
+I0026,2026-09-28,JPMORGAN CHASE FINANCIAL Co. LLC,Product Liability,Product Liability matter adverse to Pfiezr B.V.,lateral_prior_client,medium_risk
+I0027,2026-08-03,JP MORGAN SECURITIES (FAR EAST) LIMITED,Finance,Finance matter adverse to VERIZON COMMUNICATIONS INC,direct_adverse_current,high_risk
+I0028,2026-07-06,OAKMONT SOFTWARE CORP.,Product Liability,"Product Liability matter adverse to LMSR, L.P.",affiliate_of_former,low_risk
+I0029,2026-07-10,Pfizer PFE PILSA Holdco S.à r.l.,Finance,"Finance matter adverse to AMAZON.COM, INC., UNIVERSAL STUDIOS HOME ENTERTAINMENT LLC",direct_adverse_current,high_risk
+I0030,2026-08-16,Stonebridge Freight Corp.,Product Liability,Product Liability matter adverse to Chevron Street Bakery Llc,lookalike_name,clear
+I0031,2026-09-20,FROSCH-UK LIMITED,Corporate/M&A,"Corporate/M&A matter adverse to WALMART CHILE S.A., Devon Ferreira",affiliate_of_current,medium_risk
+I0032,2026-10-11,PFIZER TRANSACTIONS IRELAND UNLIMITED COMPANY,IP Litigation,IP Litigation matter adverse to FACEBOOK INDIA ONLINE SERVICES PRIVATE LIMITED,lateral_prior_client,medium_risk
+I0033,2026-07-02,Copperleaf Freight,Securities Litigation,Securities Litigation matter adverse to Silverline Foods,clean,clear
+I0034,2026-09-20,Robin Kowalski,Product Liability,Product Liability matter adverse to Westbrook Medical Devices Lp,clean,clear
+I0035,2026-07-15,MAX RECOVERY LIMITED,Commercial Litigation,Commercial Litigation matter adverse to 眼力健（杭州）制药有限公司,affiliate_of_current,medium_risk
+I0036,2026-07-22,Alex Abernathy,IP Litigation,"IP Litigation matter adverse to TESLA, Global Shares Execution Services Ltd",direct_adverse_current,high_risk
+I0037,2026-10-11,Microsoft Regional Sales Pte,IP Litigation,"IP Litigation matter adverse to ECP Entwicklungsgesellschaft mbH, Summit Capital Corp",affiliate_of_current,medium_risk
+I0038,2026-10-16,PFIZER OVERSEAS EXPORT DIVISION,Regulatory,Regulatory matter adverse to AMAZON FOREIGN HOLDINGS,affiliate_of_current,medium_risk
+I0039,2026-08-23,Stonebridge Building Spuply Holdings LLC,Finance,"Finance matter adverse to CİTİ TEKNOLOJİ EĞİTİM HİZMET VE DANIŞMANLIK ANONİM ŞİRKETİ, Github India Private Limited",business_relationship,low_risk
+I0040,2026-07-29,Morgan Brennan,Commercial Litigation,"Commercial Litigation matter adverse to APPLE HOSPITALITY REIT, INC., Redfern Buildin gSupply Inc",lookalike_name,clear
+I0041,2026-07-07,Copperleaf Software L.P.,Finance,"Finance matter adverse to PT Citigroup Sekuritas Indonesia, Sidney Delacroix",former_client_related,high_risk
+I0042,2026-09-13,IRONWOOD BUILDING SUPPLY INC.,Product Liability,Product Liability matter adverse to Ford Auto Securitization Trust,direct_adverse_current,high_risk
+I0043,2026-07-16,OCTANTIS SERVICES PRIVATE LIMITED,Finance,"Finance matter adverse to JOHNSON and JOHNSON DEL PERU S.A, Cameron Delacroix",affiliate_of_current,medium_risk
+I0044,2026-09-13,PFIZER PHARMACEUTICALS LLC,Antitrust,Antitrust matter adverse to Pfizer Lane Dental Group PLLC,lookalike_name,clear
+I0045,2026-08-29,Harepr Petrov,Corporate/M&A,Corporate/M&A matter adverse to SOUTH HOOK LNG TERMINAL COMPANY,former_client_related,high_risk
+I0046,2026-09-20,JPMORGAN MUTUAL FUND INDIA PRIVATE,Securities Litigation,Securities Litigation matter adverse to WELLS FARGO & Co,former_client_unrelated,low_risk
+I0047,2026-08-29,LinkedIn Singapore Pte Ltd,Product Liability,Product Liability matter adverse to PFIZER SERVICE COMPANY IRELAND UNLIMITED,lateral_prior_client,medium_risk
+I0048,2026-08-17,Ridgeline Energy Services Holdings,Corporate/M&A,"Corporate/M&A matter adverse to META PLATFORMS, INC.",business_relationship,low_risk
+I0049,2026-08-10,Bluewater Logistics,Corporate/M&A,"Corporate/M&A matter adverse to Robni Moreau, GOOGLE NETHERLANDS B.V.",adverse_party_becomes_client,high_risk
+I0050,2026-07-21,PRISM HOLDINGS BV,Regulatory,Regulatory matter adverse to TESLA,direct_adverse_current,high_risk
+I0051,2026-10-14,JP MORGAN SECURITIES LLC,Finance,Finance matter adverse to FACEBOOK INDIA ONLINE SERVICES PRIVATE LIMITED,lateral_prior_client,medium_risk
+I0052,2026-08-02,GLUI Engineering Oy,Securities Litigation,"Securities Litigation matter adverse to 强生 (中国) 医疗器材有限公司, Harbor Retail Group Corp",affiliate_of_current,medium_risk
+I0053,2026-10-05,GOOGLE CLOUD MEXICO S DE RL DE CV,Corporate/M&A,Corporate/M&A matter adverse to PFIZER INTERNATIONAL OPERATIONS,business_relationship,low_risk
+I0054,2026-07-01,UPJOHN BELGIUM BV,Employment,Employment matter adverse to Kendall Petrov,clean,clear
+I0055,2026-10-03,CMBD II,Commercial Litigation,"Commercial Litigation matter adverse to BEIJING DABAO COSMETICS CO., Devon Okafor",affiliate_of_current,medium_risk
+I0056,2026-09-14,HOSPIRA UK LIMITED,Employment,"Employment matter adverse to C.P. Pharmaceuticals International C.V., Prairie Software LLC",lateral_prior_client,medium_risk
+I0057,2026-08-11,B.,Securities Litigation,"Securities Litigation matter adverse to Riley Haddad, PFIZER PHARMACEUTICALS GLOBAL B.V.",adverse_party_becomes_client,high_risk
+I0058,2026-07-07,Sasha Holloway,Commercial Litigation,"Commercial Litigation matter adverse to TARIS BIOMEDICAL, Casey Novak",business_relationship,medium_risk
+I0059,2026-07-12,MERRYSHA PRIVATE,Corporate/M&A,Corporate/M&A matter adverse to AT&T INC.,direct_adverse_current,high_risk
+I0060,2026-08-15,PRIVATE EXPORT FUNDING,Corporate/M&A,Corporate/M&A matter adverse to Silverline Manufacturing Holdings Llc,clean,clear
+I0061,2026-07-25,PFIZER PHARMA GMBH,Securities Litigation,"Securities Litigation matter adverse to PFIZER SHAERD SERVICES UNLIMITED, MOL",lateral_prior_client,medium_risk
+I0062,2026-08-11,J.P. MORGAN ENERGY EUROPE DOO BEOGRAD,Securities Litigation,"Securities Litigation matter adverse to J.P. MORGAN MOBILITY PAYMENTS SOLUTIONS S.A., Banco J.p. Morgan S.a.",clean,clear
+I0063,2026-09-15,GOOGLE CLOUD MEXICO S DE RL DE CV,Employment,"Employment matter adverse to CITIGROUP GLOBAL MARKETS NIGERIA, UNIVERSAL STUDIOS HOME ENTERTAINMENT LLC",affiliate_of_former,low_risk
+I0064,2026-07-28,Pfizer Investment Holdings S. à r.l.,Finance,Finance matter adverse to JPMORGAN ASSET MANAGEMENT (SINGAPORE),clean,clear
+I0065,2026-07-13,J.P. MORGAN VENTURES ENERGY,Corporate/M&A,Corporate/M&A matter adverse to SOUTH HOOK LNG TERMINAL Co. LTD.,former_client_related,high_risk
+I0066,2026-09-18,Sasha Petrov,Finance,Finance matter adverse to WELLS FARGO & COMPANY,former_client_unrelated,low_risk
+I0067,2026-10-09,Pratt,Securities Litigation,"Securities Litigation matter adverse to JPMORGAN CHASE & CO., DANA NAKAMURA",adverse_party_becomes_client,high_risk
+I0068,2026-08-16,MICROSOFT GLOBAL SERIVCES CENTER (INDIA) PRIVATE,Finance,"Finance matter adverse to Ford Models, Inc.",lookalike_name,clear
+I0069,2026-08-09,Marlowe Sato,Antitrust,"Antitrust matter adverse to PFIZER INTERNATIONAL OPERATIONS, Westbrook Capital Holdings",business_relationship,low_risk
+I0070,2026-07-04,STEWART,Antitrust,"Antitrust matter adverse to ROBIN GALLAGHER, ECAST SETTLEMENT CORPORATION",adverse_party_becomes_client,high_risk
+I0071,2026-08-18,Sasha Novak,Commercial Litigation,Commercial Litigation matter adverse to WELLS FARGO & COMPANY,former_client_related,high_risk
+I0072,2026-09-14,"Google Europe, Middle East And Africa Unlimited",Regulatory,"Regulatory matter adverse to PFIZER MANUFACTURING AUSTRIA GMBH, J.p. Morgan Broker-Dealer Holdings Inc.",clean,clear
+I0073,2026-07-17,Prairie Building Supply Corp.,Securities Litigation,Securities Litigation matter adverse to MERCK & CO.,direct_adverse_current,high_risk
+I0074,2026-07-23,J.p. Morgan Gt Corporation,Corporate/M&A,"Corporate/M&A matter adverse to ABIOMED, INC., PRAIRIE CAPITAL LLC",affiliate_of_current,medium_risk
+I0075,2026-08-19,Frankie Ferreira,Corporate/M&A,"Corporate/M&A matter adverse to FACEBOOK INTERNATIONAL TREASURY OPERATIONS LIMITED, PFIZER LIMITED",clean,clear
+I0076,2026-08-09,Redfern Freight L.P.,Finance,Finance matter adverse to Harbor Health Partners Holdings LLC,clean,clear
+I0077,2026-09-07,Ale Xchen,Corporate/M&A,"Corporate/M&A matter adverse to General Motors Company, Bluewater Manufacturing Corp.",former_client_unrelated,low_risk
+I0078,2026-10-17,Stonebridge Foods Inc.,IP Litigation,"IP Litigation matter adverse to 合同会社ユー・エス・ジェイ, Taylor Okafor",clean,clear
+I0079,2026-08-25,GOOGLE INDIA PRIVATE LIMITED,Antitrust,Antitrust matter adverse to UNITED BEHAVIORAL HEALTH,affiliate_of_current,medium_risk
+I0080,2026-07-04,Prairie Software LLC,Commercial Litigation,Commercial Litigation matter adverse to SKY IN-HOME SERVICE,clean,clear
+I0081,2026-10-04,APPLE OPERATIONS INTERNATIONAL,Commercial Litigation,"Commercial Litigation matter adverse to SHOCKWAVE MEDICAL ITALY SRL, JPMORGAN VENTURES ENERGY (ASIA) PTE. LTD.",affiliate_of_current,medium_risk
+I0082,2026-10-15,WHATSAPP APPLICATION SERVICES PRIVATE,Regulatory,Regulatory matter adverse to Liberty Pointe Limited Partnership,former_client_unrelated,low_risk
+I0083,2026-09-13,Alex Bjork,Regulatory,"Regulatory matter adverse to LAKESHORE BUILDING SUPPLY L.P., J P Morgan Equities South Africa",clean,clear
+I0084,2026-07-03,Cameron Ramirez,Regulatory,"Regulatory matter adverse to C.P. Pharmaceuticals International C.V., Bluewater Manufacturing",lateral_prior_client,medium_risk
+I0085,2026-10-10,Banco C6 S.A.,Employment,"Employment matter adverse to BLUEBAY MAURITIUS INVESTMENT LIMITED, Goldframe Llc",clean,clear
+I0086,2026-09-11,GOOGLE INTERNATIONAL LLC,Antitrust,"Antitrust matter adverse to Associates Housing Finance, LLC",affiliate_of_former,low_risk
+I0087,2026-08-13,Westbrook Logistics Holdings Llc,Commercial Litigation,"Commercial Litigation matter adverse to Apple Hospitality REIT, Inc.",lookalike_name,clear
+I0088,2026-08-14,Westbrook Health Partners,Securities Litigation,Securities Litigation matter adverse to Liberty Pointe Limited Partnership,former_client_unrelated,low_risk
+I0089,2026-07-20,J.P. MORGAN DUBLIN FINANCIAL HOLDINGS,Product Liability,Product Liability matter adverse to PT Citigroup Sekuritas Indonesia,former_client_unrelated,low_risk
+I0090,2026-10-15,Silverline Capital Holdings LLC,Commercial Litigation,"Commercial Litigation matter adverse to PRLAP, JP Morgan Bank Canada",business_relationship,low_risk
+I0091,2026-09-24,Stonebridge Capital LLC,Finance,Finance matter adverse to WELLS FARGO & COMPANY,former_client_unrelated,low_risk
+I0092,2026-08-06,MICROSOFT RESEARCH LAB INDIA PRIVATE LMIITED,Product Liability,Product Liability matter adverse to JOHNSON & JOHNSON DE COLOMBIA S A,direct_adverse_current,high_risk
+I0093,2026-08-15,FXSPOTSTREAM,IP Litigation,"IP Litigation matter adverse to Pfizer Service Company Ireland Unlimited Company, Prairie Energy Services",lateral_prior_client,medium_risk
+I0094,2026-09-23,JPM NOMINEES LIMITED,Corporate/M&A,"Corporate/M&A matter adverse to Liberty Pointe Limited Partnership, PRAESYS ONE NOMINEES LIMITED",former_client_related,high_risk
+I0095,2026-08-10,CAMERON LINDQVIST,IP Litigation,"IP Litigation matter adverse to Johnson & Johnson, S.r.o.",affiliate_of_current,medium_risk
+I0096,2026-09-22,Pf Czech Republic Holdings B.v.,Corporate/M&A,"Corporate/M&A matter adverse to Liberty Pointe Limited Partnership, Lakeshore Analytics Inc.",former_client_related,high_risk
+I0097,2026-07-07,Oakmont Medical Dveices Inc.,Commercial Litigation,Commercial Litigation matter adverse to GENERAL MOTORS,former_client_related,high_risk
+I0098,2026-09-21,Lakeshore Analytics,Securities Litigation,Securities Litigation matter adverse to JOHNSON & JOHNSON DE COLOMBIA S A,direct_adverse_current,high_risk
+I0099,2026-09-12,Stonebridge Freight Inc.,Antitrust,Antitrust matter adverse to Cedar Building Supply Holdings LLC,clean,clear
+I0100,2026-07-07,Summit Building Supply,Corporate/M&A,Corporate/M&A matter adverse to SOUTH HOOK LNG TERMINAL COMPANY,former_client_related,high_risk
+I0101,2026-07-18,J.P. MORGAN GT,Finance,"Finance matter adverse to Nbc Universal Global Networks Uk Limited, SICULUS LLC",business_relationship,low_risk
+I0102,2026-08-18,Cmaeron Whitlock,Employment,Employment matter adverse to GMF PRIME AUTOMOBILE WAREHOUSE TRUST X,affiliate_of_former,low_risk
+I0103,2026-08-19,Ferrosan A/S,Corporate/M&A,"Corporate/M&A matter adverse to WELLS FARGO &, MICROSOFT ROUND ISLAND ONE",former_client_related,high_risk
+I0104,2026-08-22,STEWART,Corporate/M&A,Corporate/M&A matter adverse to PFIZER EASTERN INVESTMENTS B.V.,adverse_party_becomes_client,high_risk
+I0105,2026-07-16,BUSINESS NEWS (ASIA) LLP,Employment,"Employment matter adverse to TELSA, INC.",direct_adverse_current,high_risk
+I0106,2026-08-06,GITHUB INDIA PRIVATE LIMITED,Regulatory,Regulatory matter adverse to Amazon International Holdings LLC,direct_adverse_current,high_risk
+I0107,2026-09-29,Quigley,Regulatory,"Regulatory matter adverse to Avery Sato, Copperleaf Manufacturing",adverse_party_becomes_client,high_risk
+I0108,2026-10-03,INVERSIONES J.P.MORGAN LIMITADA,Product Liability,Product Liability matter adverse to AT&T,direct_adverse_current,high_risk
+I0109,2026-08-26,Ironwood Logistics Crop.,Securities Litigation,Securities Litigation matter adverse to FACEBOOK INDIA ONLINE SERVICES PRIVATE LIMITED,lateral_prior_client,medium_risk
+I0110,2026-08-31,Hayedn Gallagher,Regulatory,"Regulatory matter adverse to FORD MOTOR COMPANY LMIITED, GOOGLE INTERNATIONAL LLC",direct_adverse_current,high_risk
+I0111,2026-08-25,Logan Quist,Finance,"Finance matter adverse to ADS Turkey Veritabanı Hizmetleri Limited Şirketi, Sidney Ramirez",affiliate_of_current,medium_risk
+I0112,2026-09-28,Harbor Software Holdings,Employment,Employment matter adverse to PT CITIGROUP SEKURITAS INDONESIA,former_client_unrelated,low_risk
+I0113,2026-10-17,B,Product Liability,Product Liability matter adverse to JPMAM RE PG 3 LP,adverse_party_becomes_client,high_risk
+I0114,2026-07-30,Bluewater Health Partners L.p.,Finance,"Finance matter adverse to Ford Models, Inc.",lookalike_name,clear
+I0115,2026-09-22,PFIZER PHARMA GMBH,Employment,Employment matter adverse to Lakeshore Energy Services,clean,clear
+I0116,2026-08-26,บริษัท หลักทรัพย์ เจพีมอร์แกน (ประเทศไทย) จำกัด,Securities Litigation,"Securities Litigation matter adverse to BANK OF AMERICA AUTO RECEIVABLES SECURITIZATION, Devon Ferreira",affiliate_of_former,low_risk
+I0117,2026-10-05,Dana Ramirez,Corporate/M&A,"Corporate/M&A matter adverse to PT Citigroup Sekuritas Indonesia, Pfizer Himalaya Holdings Coöperatief Ua",former_client_unrelated,low_risk
+I0118,2026-08-29,Banco C6 S.a.,Antitrust,Antitrust matter adverse to Westbrook Energy Services,clean,clear
+I0119,2026-10-13,Bluewater Logistics,Employment,Employment matter adverse to Apple Pty,adverse_party_becomes_client,high_risk
+I0120,2026-10-02,Pfizer,Employment,"Employment matter adverse to HITCHCOCK INVESTMENTS, S.A., Ridgeline Logistics L.P.",affiliate_of_former,low_risk
+I0121,2026-09-27,JPMORGAN FUNDS,Corporate/M&A,Corporate/M&A matter adverse to GENERAL MOTORS COMPANY,former_client_unrelated,low_risk
+I0122,2026-07-19,GOOGLE PAYMENT INDIA PRIVATE LIMITED,IP Litigation,IP Litigation matter adverse to PT Citigroup Sekuritas Indonesia,former_client_unrelated,low_risk
+I0123,2026-08-08,Silverline Retail Group L.p.,IP Litigation,IP Litigation matter adverse to UNITEDHEALTH GROUP INCORPORATED,direct_adverse_current,high_risk
+I0124,2026-09-30,Oakmont Health Partners Inc,Corporate/M&A,Corporate/M&A matter adverse to Ford Motor Company Limited,direct_adverse_current,high_risk
+I0125,2026-07-06,Westbrook Building Supply Holdings Llc,Product Liability,Product Liability matter adverse to Cameron Kowalski,clean,clear
+I0126,2026-08-23,AHR CAPITAL MS DESIGNATED ACTIVITY,Corporate/M&A,"Corporate/M&A matter adverse to PFIZER MANUFACTURING BELGIUM, Winner Llc",clean,clear
+I0127,2026-07-18,JP MORGAN ADMINISTRATION SERVICES (JERSEY) LIMITED,Corporate/M&A,"Corporate/M&A matter adverse to CITI LOAN FUNDING RR CURRY 1, Business News (Asia) Llp",business_relationship,low_risk
+I0128,2026-07-20,Stonebridge Health Partners Corp.,Commercial Litigation,"Commercial Litigation matter adverse to Wells Fargo &, JPMORGAN CHASE FUNDING INC.",former_client_related,high_risk
+I0129,2026-09-25,Quigley,Regulatory,Regulatory matter adverse to UPJHON VIETNAM DUTCH B.V.,adverse_party_becomes_client,high_risk
+I0130,2026-09-08,Sky Deutschland Gmbh,Finance,"Finance matter adverse to ROOFTOP ENERGY HOLDINGS II, LLC",affiliate_of_former,low_risk
+I0131,2026-08-09,Ironwood Manufacturing Corp.,Finance,Finance matter adverse to WALMART INC.,direct_adverse_current,high_risk
+I0132,2026-10-06,Nbcu Global Networks Asia Pte. Ltd.,IP Litigation,"IP Litigation matter adverse to Marlowe Solberg, Prairie Retail Group LLC",clean,clear
+I0133,2026-07-09,FACEBOOK INTERNATIONAL TREASURY OPERATIONS,Regulatory,Regulatory matter adverse to Silverline Medical Devices,clean,clear
+I0134,2026-09-26,JPMORGAN ASSET MANAGEMENT (UK) LIMITED,Securities Litigation,Securities Litigation matter adverse to Merck KGaA,lookalike_name,clear
+I0135,2026-08-11,WESTBROOK FOODS LP,Product Liability,"Product Liability matter adverse to GREEN TURNKEY PLAZA, LTD",business_relationship,low_risk

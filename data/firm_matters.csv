@@ -1,0 +1,49 @@
+matter_id,client_id,client_lei,matter_name,practice_area,status,open_date,close_date,responsible_attorney_id,source,docket_id
+M0001,C001,549300V23LTA8P4QP844,JOHNSON & JOHNSON DE COLOMBIA S A v. Bluewater Logistics Inc.,Commercial Litigation,open,2020-09-27,,A022,synthetic,
+M0002,C002,4YV9Y5M8S0BRK1RP0397,STEWART v. MERCK SHARP AND DOHME CORP.,Commercial Litigation,open,2020-08-26,,A008,courtlistener_docket,59146924
+M0003,C002,4YV9Y5M8S0BRK1RP0397,"Katherine OBrien v. Merck and Co., Inc.",Product Liability,closed,2022-04-15,2022-10-07,A006,courtlistener_docket,63241963
+M0004,C002,4YV9Y5M8S0BRK1RP0397,Regulatory compliance advice,Regulatory,closed,2019-02-21,2021-01-19,A002,synthetic,
+M0005,C002,4YV9Y5M8S0BRK1RP0397,"Joint venture with GREEN TURNKEY PLAZA, LTD",Corporate/M&A,closed,2023-09-01,2024-05-08,A001,synthetic,
+M0006,C003,PBLD0EJDB5FWOLXP3B76,Bentley v. Wells Fargo,Commercial Litigation,closed,2015-08-13,2015-09-30,A005,courtlistener_docket,31383403
+M0007,C003,PBLD0EJDB5FWOLXP3B76,Rudder v. Wells Fargo,Commercial Litigation,closed,2021-05-10,2021-09-01,A008,courtlistener_docket,59898787
+M0008,C003,PBLD0EJDB5FWOLXP3B76,"Joint venture with META PLATFORMS, INC.",Corporate/M&A,closed,2023-06-11,2025-02-01,A001,synthetic,
+M0009,C004,549300GJOT0PFDFCF273,Joint venture with Citigroup Global Markets Finance Corporation & Co. beschränkt haftende KG,Corporate/M&A,closed,2022-02-12,2024-05-13,A018,synthetic,
+M0010,C004,549300GJOT0PFDFCF273,Joint venture with PFIZER PFE ITALY HOLDCO S.À R.L.,Corporate/M&A,closed,2017-07-18,2018-08-11,A012,synthetic,
+M0011,C005,5493000QY2EN4QDHTJ68,"Credit facility with AMO SALES AND SERVICE, INC.",Finance,closed,2016-08-24,2017-04-03,A010,synthetic,
+M0012,C006,ZXTILKJKG63JELOEG630,Adjout v. Amazon.com,IP Litigation,open,2023-04-28,,A019,courtlistener_docket,67286763
+M0013,C006,ZXTILKJKG63JELOEG630,Landrith v. Amazon.com,Employment,closed,2017-07-28,2017-08-15,A004,courtlistener_docket,8333115
+M0014,C006,ZXTILKJKG63JELOEG630,Credit facility with PFIZER INTERNATIONAL OPERATIONS,Finance,closed,2016-11-17,2017-08-25,A013,synthetic,
+M0015,C006,ZXTILKJKG63JELOEG630,"AMAZON.COM, INC. v. Granite Energy Services L.P.",Commercial Litigation,closed,2017-11-16,2018-11-06,A005,synthetic,
+M0016,C007,254900V6GOYYGXKAXT53,Joint venture with CITI LOAN FUNDING RR CURRY 1 LLC,Corporate/M&A,open,2020-09-24,,A012,synthetic,
+M0017,C007,254900V6GOYYGXKAXT53,Amazon International Holdings LLC v. Summit Software L.P.,Commercial Litigation,closed,2021-06-23,2022-06-06,A008,synthetic,
+M0018,C008,9845004838E0E8DB9F59,Joint venture with TARIS BIOMEDICAL LLC,Corporate/M&A,closed,2018-05-18,2019-10-12,A018,synthetic,
+M0019,C009,WPTL2Z3FIYTHSP5V2253,Quigley v. ConocoPhillips Company,Employment,open,2024-02-12,,A004,courtlistener_docket,68244574
+M0020,C009,WPTL2Z3FIYTHSP5V2253,Bransgrove v. ConocoPhillips Company,Commercial Litigation,closed,2016-10-11,2017-09-19,A005,courtlistener_docket,13419312
+M0021,C009,WPTL2Z3FIYTHSP5V2253,Regulatory compliance advice,Regulatory,closed,2023-08-19,2025-10-08,A002,synthetic,
+M0022,C010,54930070NSV60J38I987,Green v. General Motors,Employment,closed,2020-12-07,2023-05-19,A021,courtlistener_docket,34612396
+M0023,C010,54930070NSV60J38I987,Creamer v. General Motors,Commercial Litigation,closed,2016-04-25,2016-05-24,A008,courtlistener_docket,13322659
+M0024,C010,54930070NSV60J38I987,GENERAL MOTORS COMPANY v. Silverline Energy Services LLC,Commercial Litigation,closed,2018-09-29,2020-08-22,A022,synthetic,
+M0025,C010,54930070NSV60J38I987,Credit facility with NBC UNIVERSAL GLOBAL NETWORKS UK LIMITED,Finance,closed,2022-01-07,2022-12-18,A010,synthetic,
+M0026,C011,549300ZGWE2VQHZWVW14,Regulatory compliance advice,Regulatory,open,2016-12-29,,A002,synthetic,
+M0027,C012,549300UXPSVB9J11GQ87,Regulatory compliance advice,Regulatory,open,2021-05-05,,A002,synthetic,
+M0028,C012,549300UXPSVB9J11GQ87,Joint venture with CITIGROUP GLOBAL INVESTMENTS REAL ESTATE LP LLC,Corporate/M&A,closed,2019-12-05,2021-07-23,A018,synthetic,
+M0029,C013,54930043XZGB27CTOV49,"Durell v. Tesla Motors, Inc.",Commercial Litigation,open,2023-02-15,,A022,courtlistener_docket,66816849
+M0030,C013,54930043XZGB27CTOV49,"Tesla Motors, Inc. v. Balan",Commercial Litigation,closed,2021-12-02,2025-05-07,A005,courtlistener_docket,61591301
+M0031,C013,54930043XZGB27CTOV49,Credit facility with CİTİ TEKNOLOJİ EĞİTİM HİZMET VE DANIŞMANLIK ANONİM ŞİRKETİ,Finance,closed,2016-02-03,2018-04-29,A023,synthetic,
+M0032,C013,54930043XZGB27CTOV49,"Credit facility with PRLAP, INC.",Finance,closed,2024-01-12,2025-09-15,A013,synthetic,
+M0033,C014,549300C1ZZOOM8PPSQ77,"Weisshorn Solar I, LLC v. Summit Medical Devices LLC",Commercial Litigation,open,2018-02-04,,A008,synthetic,
+M0034,C014,549300C1ZZOOM8PPSQ77,"Weisshorn Solar I, LLC v. Stonebridge Health Partners LLC",Commercial Litigation,closed,2019-05-23,2021-07-03,A022,synthetic,
+M0035,C015,2S72QS2UO2OESLG6Y829,Lopez v. Verizon,Commercial Litigation,open,2019-04-22,,A022,courtlistener_docket,14979706
+M0036,C015,2S72QS2UO2OESLG6Y829,Holtzclaw v. Verizon,Commercial Litigation,closed,2025-04-16,2026-09-21,A005,courtlistener_docket,69902095
+M0037,C015,2S72QS2UO2OESLG6Y829,Credit facility with The Eagle Tax-Exempt Trust Series 20170006,Finance,closed,2019-12-30,2021-08-01,A013,synthetic,
+M0038,C015,2S72QS2UO2OESLG6Y829,Regulatory compliance advice,Regulatory,closed,2023-10-01,2024-11-26,A015,synthetic,
+M0039,C016,549300Z40J86GGSTL398,Wilkes v. AT&T,Employment,open,2016-08-12,,A021,courtlistener_docket,8338587
+M0040,C016,549300Z40J86GGSTL398,Gary v. AT&T,Commercial Litigation,closed,2016-03-02,2016-07-18,A008,courtlistener_docket,53387346
+M0041,C016,549300Z40J86GGSTL398,Credit facility with CİTİ TEKNOLOJİ EĞİTİM HİZMET VE DANIŞMANLIK ANONİM ŞİRKETİ,Finance,closed,2025-10-04,2026-09-21,A023,synthetic,
+M0042,C017,Y87794H0US1R65VBXU25,Pratt v. Wal-Mart,Commercial Litigation,open,2020-09-25,,A005,courtlistener_docket,18475974
+M0043,C017,Y87794H0US1R65VBXU25,Hill v. Wal-Mart,Commercial Litigation,closed,2024-07-03,2024-12-27,A008,courtlistener_docket,68916704
+M0044,C017,Y87794H0US1R65VBXU25,Joint venture with HARBOR PLACE AT MERRIMACK LLC,Corporate/M&A,closed,2020-04-17,2020-11-13,A018,synthetic,
+M0045,C017,Y87794H0US1R65VBXU25,WALMART INC. v. Silverline Retail Group Inc.,Commercial Litigation,closed,2018-03-02,2020-04-22,A005,synthetic,
+M0046,C018,549300GHBMY8T5GXDE41,B. v. UnitedHealthcare Insurance,Employment,open,2017-11-21,,A004,courtlistener_docket,6734757
+M0047,C018,549300GHBMY8T5GXDE41,Kersting v. UnitedHealth Group,Employment,closed,2023-01-27,2023-06-29,A021,courtlistener_docket,66767338
+M0048,C018,549300GHBMY8T5GXDE41,Regulatory compliance advice,Regulatory,closed,2025-10-18,2026-09-21,A002,synthetic,

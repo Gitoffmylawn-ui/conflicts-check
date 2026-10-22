@@ -1,0 +1,9 @@
+hit_type,expected,found,correct,precision,recall
+affiliate_of_current_client,21,21,21,1,1
+current_client_adverse,20,20,20,1,1
+affiliate_of_former_client,13,13,13,1,1
+former_client_substantially_related,12,12,12,1,1
+former_client_unrelated,12,12,12,1,1
+business_relationship,10,10,10,1,1
+lateral_hire_prior_client,10,10,10,1,1
+prospective_client_adverse_to_firm_client,10,10,10,1,1

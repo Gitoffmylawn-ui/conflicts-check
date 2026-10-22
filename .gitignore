@@ -1,0 +1,14 @@
+# Download cache: the collectors rebuild it (data/raw/gleif, data/raw/courtlistener)
+data/raw/
+
+# Run logs
+data/*_log.txt
+
+# R session and editor files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Never commit API tokens
+.Renviron

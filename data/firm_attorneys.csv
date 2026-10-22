@@ -1,0 +1,28 @@
+attorney_id,name,practice_group,title,is_lateral,prior_firm,join_date
+A001,Jamie Adeyemi,Corporate/M&A,Counsel,FALSE,,2005-04-16
+A002,Taylor Castellano,Regulatory,Counsel,FALSE,,2022-08-11
+A003,Blair Rourke,IP Litigation,Associate,FALSE,,2012-01-05
+A004,Drew Quist,Employment,Counsel,FALSE,,2015-09-26
+A005,Marlowe Adeyemi,Commercial Litigation,Partner,FALSE,,2016-01-28
+A006,Riley Sato,Product Liability,Partner,FALSE,,2018-06-21
+A007,Devon Okafor,Product Liability,Partner,FALSE,,2016-06-14
+A008,Blair Adeyemi,Commercial Litigation,Associate,FALSE,,2022-05-11
+A009,Marlowe Gallagher,Antitrust,Partner,FALSE,,2016-01-01
+A010,Marlowe Abernathy,Finance,Partner,FALSE,,2012-10-25
+A011,Harper Petrov,Securities Litigation,Partner,FALSE,,2019-12-01
+A012,Jordan Bjork,Corporate/M&A,Associate,FALSE,,2006-08-01
+A013,Harper Fairbanks,Finance,Partner,FALSE,,2005-07-04
+A014,Shawn Gallagher,Antitrust,Partner,FALSE,,2016-06-10
+A015,Riley Moreau,Regulatory,Partner,FALSE,,2019-05-30
+A016,Shawn Fairbanks,IP Litigation,Associate,FALSE,,2014-09-17
+A017,Jamie Moreau,Securities Litigation,Partner,FALSE,,2009-04-05
+A018,Morgan Okafor,Corporate/M&A,Partner,FALSE,,2019-01-09
+A019,Reese Petrov,IP Litigation,Partner,FALSE,,2006-01-09
+A020,Harper Rourke,Securities Litigation,Partner,FALSE,,2022-11-24
+A021,Sasha Ferreira,Employment,Partner,FALSE,,2020-02-14
+A022,Shawn Castellano,Commercial Litigation,Counsel,FALSE,,2011-11-19
+A023,Elliot Novak,Finance,Partner,FALSE,,2005-07-07
+A024,Reese Brennan,Product Liability,Associate,FALSE,,2005-03-05
+A025,Hayden Kowalski,Employment,Counsel,TRUE,Ashby Kline LLP,2026-07-06
+A026,Blair Mbeki,Antitrust,Partner,TRUE,Marrow & Vance LLP,2026-08-10
+A027,Quinn Okafor,Regulatory,Counsel,TRUE,Stroud Pellham LLP,2026-07-15

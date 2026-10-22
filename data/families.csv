@@ -1,0 +1,24 @@
+family_id,family_name,seed_name,sector,court_terms,member_count,entities_walked,tree_complete
+765LHXWGK1KXCLTFYQ30,PFIZER INC.,Pfizer,Pharma,pfizer,148,64,TRUE
+549300G0CFPGEF6X2043,Johnson & Johnson,Johnson & Johnson,Pharma,johnson & johnson,210,103,TRUE
+4YV9Y5M8S0BRK1RP0397,"MERCK & CO., INC.",Merck,Pharma,merck & co;merck sharp & dohme,24,5,TRUE
+8I5DZWZKVSZI1NUHU748,JPMORGAN CHASE & CO.,JPMorgan Chase,Banking,jpmorgan;jp morgan,173,148,TRUE
+PBLD0EJDB5FWOLXP3B76,WELLS FARGO & COMPANY,Wells Fargo,Banking,wells fargo,57,47,TRUE
+9DJT3UXIJIZJI4WXO774,BANK OF AMERICA CORPORATION,Bank of America,Banking,bank of america,761,400,FALSE
+6SHGI4ZSSLCXXQSBB395,CITIGROUP INC.,Citigroup,Banking,citigroup;citibank,750,400,FALSE
+5493006MHB84DD0ZWV18,ALPHABET INC.,Alphabet,Technology,google;alphabet inc,51,43,TRUE
+HWUPKR0MPOU8FGXBT394,Apple Inc.,Apple,Technology,apple inc,21,21,TRUE
+INR2EJN1ERAN0W5ZP974,MICROSOFT CORPORATION,Microsoft,Technology,microsoft,35,32,TRUE
+ZXTILKJKG63JELOEG630,"AMAZON.COM, INC.",Amazon,Technology,amazon.com;amazon web services,82,32,TRUE
+BQ4BKCS1HXDV9HN80Z93,"META PLATFORMS, INC.",Meta,Technology,meta platforms;facebook,15,12,TRUE
+J3WHBG0MTS7O8ZVMDC91,EXXON MOBIL CORPORATION,ExxonMobil,Energy,exxon;exxonmobil,19,9,TRUE
+WPTL2Z3FIYTHSP5V2253,CONOCOPHILLIPS,ConocoPhillips,Energy,conocophillips,16,7,TRUE
+54930070NSV60J38I987,GENERAL MOTORS COMPANY,General Motors,Automotive,general motors,144,142,TRUE
+20S05OYHG0MQM4VUIC57,FORD MOTOR COMPANY,Ford,Automotive,ford motor,34,12,TRUE
+54930043XZGB27CTOV49,"TESLA, INC.",Tesla,Automotive,tesla inc;tesla motors,4,4,TRUE
+2S72QS2UO2OESLG6Y829,VERIZON COMMUNICATIONS INC.,Verizon,Telecom,verizon,19,9,TRUE
+549300Z40J86GGSTL398,AT&T INC.,AT&T,Telecom,at&t,23,16,TRUE
+51M0QTTNCGUN7KFCFZ59,COMCAST CORPORATION,Comcast,Telecom,comcast,29,27,TRUE
+Y87794H0US1R65VBXU25,WALMART INC.,Walmart,Retail,walmart;wal-mart,16,9,TRUE
+549300GHBMY8T5GXDE41,UNITEDHEALTH GROUP INCORPORATED,UnitedHealth,Healthcare,unitedhealth;unitedhealthcare,19,3,TRUE
+RVHJWBXLJ1RFUBSY1F30,THE BOEING COMPANY,Boeing,Aerospace,boeing,6,5,TRUE
