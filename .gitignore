@@ -12,3 +12,6 @@ data/*_log.txt
 
 # Never commit API tokens
 .Renviron
+
+# shinyapps.io deployment records (written by rsconnect::deployApp)
+rsconnect/

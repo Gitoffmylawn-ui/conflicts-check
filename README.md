@@ -1,5 +1,7 @@
 # Conflicts Check
 
+**Live demo: [bonnyandclaude.shinyapps.io/conflicts-check](https://bonnyandclaude.shinyapps.io/conflicts-check/)**. It runs on a free plan and sleeps when idle, so the first load can take 20–30 seconds.
+
 A prototype conflicts-of-interest checker for a law firm, built in R and Shiny.
 
 When a firm is asked to take on a new matter, a conflicts analyst checks everyone involved against the firm's records: current and former clients, their parent companies and subsidiaries, open matters, and the past clients of newly hired lawyers. This tool does that check. It matches messy, misspelled names to the right company, walks real corporate ownership trees, and rates each relationship it finds by how serious it is.
